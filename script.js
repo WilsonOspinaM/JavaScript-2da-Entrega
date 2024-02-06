@@ -14,7 +14,7 @@ class Pedido {
   constructor() {
     this.servicios = [];
     this.totalCompra = 0;
-    this.descuento = 3;
+    this.descuento = 2;
   }
 
   agregarServicio(id) {
